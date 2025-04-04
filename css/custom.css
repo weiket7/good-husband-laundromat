@@ -46,6 +46,8 @@ gmp-map {
     box-shadow: 0 0 0;
     border: 0;
     background: none;
+    padding-left: 60px;
+    padding-right: 60px;
 }
 
 .about-section .about-content {
@@ -53,4 +55,10 @@ gmp-map {
 }
 .testimonial {
   margin-left: 50px;
+}
+body {
+  font-size: 16px;
+}
+a {
+  font-size: 16px;
 }
