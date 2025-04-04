@@ -40,3 +40,17 @@ gmp-map {
   height: auto;
 
 }
+
+.bx-wrapper {
+    -webkit-box-shadow: 0 0 0;
+    box-shadow: 0 0 0;
+    border: 0;
+    background: none;
+}
+
+.about-section .about-content {
+  margin-top: 0;
+}
+.testimonial {
+  margin-left: 50px;
+}
